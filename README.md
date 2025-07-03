@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Ai/ML technologies**
 
-- 💬 Ask me about **NODE/express JS AND SQL**
+- 💬 Ask me about **Full Stack Web Dev**
 
 - 📫 How to reach me **mohammadabdurrehmanbhatti@gmail.com**
 
