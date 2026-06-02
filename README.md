@@ -9,7 +9,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- I am a Software Engineering student with a strong foundation in full-stack web development, having mastered the MERN and PERN stacks. Currently, I am learning  Artificial Intelligence and Machine Learning, exploring modern AI technologies I am passionate about building scalable applications
+- I am a Software Engineering student with a strong foundation in full-stack web development, having mastered the MERN and PERN stacks. Currently, I am learning  Artificial Intelligence and Machine Learning, exploring modern AI technologies 
 
 
 ## 🧠 My Focus Areas
