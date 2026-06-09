@@ -13,7 +13,9 @@
 
 
 ## 🧠 My Focus Areas
-- AI/MLOPS
+- Core Ai
+- CUDA
+- Assembly language
 
 
 ## 📊 GitHub Stats & Trophies
